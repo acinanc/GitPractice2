@@ -1,0 +1,5 @@
+public class AdamGit {
+    public static void main(String[] args) {
+        System.out.println("Adam get to work");
+    }
+}
